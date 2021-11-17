@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Age: 18
+Current Project: Discord Black Jack
 
 <!--
 **GeorgePaulino/GeorgePaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
