@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-Current Project: Discord Black Jack
+🕮 - Learning GIT with Github
+🗨 - Proficiency with C# - Knowledge in python
 
+
+🌑 Arabella
 <!--
 **GeorgePaulino/GeorgePaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
