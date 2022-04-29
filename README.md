@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🕮 - Learning GIT with Github
+
 🗨 - Proficiency with C# - Knowledge in python
 
 
