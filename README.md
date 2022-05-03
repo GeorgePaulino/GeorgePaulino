@@ -2,7 +2,7 @@
 
 🕮 - Learning GIT with Github
 
-🗨 - Proficiency with C# - Knowledge in python
+🗨 - Proficiency with C# - Knowledge in python and C++
 
 
 
