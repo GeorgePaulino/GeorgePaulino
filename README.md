@@ -1,6 +1,6 @@
 ### 🌟 Hi there... Having good idea.
 
-🕮 - Learning GIT with Github
+🕮 - GIT
 
 🗨 - Proficiency with C# - Knowledge in python and C++
 
