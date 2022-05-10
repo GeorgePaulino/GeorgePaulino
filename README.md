@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there... having good idea 👋
 
 🕮 - Learning GIT with Github
 
