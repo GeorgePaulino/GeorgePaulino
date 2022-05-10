@@ -1,4 +1,4 @@
-### 🌟 Hi there... Having good idea.
+### 🌟 Hi there... Having good ideas...
 
 🕮 - Knowledge GIT
 
