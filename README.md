@@ -1,6 +1,6 @@
 ### 🌟 Hi there... Having good idea.
 
-🕮 - GIT
+🕮 - Knowledge GIT
 
 🗨 - Proficiency with C# - Knowledge in python and C++
 
