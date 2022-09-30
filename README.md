@@ -16,9 +16,9 @@
 </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/georgepaulino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgepaulino" height="30" width="40" /></a>
-<a href="https://instagram.com/george_psf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="george_psf" height="30" width="40" /></a>
-<a href="https://twitter.com/george7paulino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="george7paulino" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/georgepaulino" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgepaulino" height="30" width="40" /></a>
+<a href="https://instagram.com/george_psf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="george_psf" height="30" width="40" /></a>
+<a href="https://twitter.com/george7paulino" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="george7paulino" height="30" width="40" /></a>
 </p>
 
 <br/>
@@ -28,8 +28,8 @@
 **[Projects]**
 </h3>
 <p align="center">
-<a href="https://github.com/GeorgePaulino/Melody" target="blank"><img align="center" src="https://img.shields.io/badge/Melody-Arduino-yellowgreen" alt="TicTacToe" /></a>
-<a href="https://github.com/GeorgePaulino/TicTacToe" target="blank"><img align="center" src="https://img.shields.io/badge/TicTacToe-ReactTS-blue" alt="TicTacToe" /></a>
+<a href="https://github.com/GeorgePaulino/Melody" target="_blank"><img align="center" src="https://img.shields.io/badge/Melody-Arduino-yellowgreen" alt="TicTacToe" /></a>
+<a href="https://github.com/GeorgePaulino/TicTacToe" target="_blank"><img align="center" src="https://img.shields.io/badge/TicTacToe-ReactTS-blue" alt="TicTacToe" /></a>
 </p>
 
 <br>
