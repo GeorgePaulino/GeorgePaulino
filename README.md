@@ -69,7 +69,7 @@
 
 <h4 align="center">Technologies</h4>
 <p align="center">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> ]
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
             height="40" /> </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
@@ -87,7 +87,7 @@
             width="40" height="40" /> </a>
 </p>
 
-<h4 align="center">Frontend Development</h4>
+<!--<h4 align="center">Frontend Development</h4>
 <p align="center">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -172,7 +172,7 @@
 <p align="center">
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
-</p>
+</p>-->
 
 <p align="center">
     <img align="center"
