@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **RPG Manager**
 - 🌱 I’m currently learning **Flutter**
-- ㊊ Ily Yada
+- 🪐⃤ Ily Yada
 
 <br>
 
