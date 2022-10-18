@@ -19,7 +19,7 @@
 <p align="center">
     <a href="https://github.com/GeorgePaulino/Melody" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Melody-Arduino-yellowgreen" alt="TicTacToe" /> </a>
-    <a href="https://github.com/GeorgePaulino/TicTacToe" target="_blank">
+    <a href="https://georgepaulino.github.io/TicTacToe/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/TicTacToe-ReactTS-blue" alt="TicTacToe" /> </a>
 </p>
 
