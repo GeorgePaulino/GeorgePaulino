@@ -5,9 +5,6 @@
         alt="georgepaulino" />
 </p>
 
-- 🔭 I’m currently working on **RPG Manager**
-- 🌱 I’m currently learning **Flutter**
-
 <br>
 
 <p align="center">
